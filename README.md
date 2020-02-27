@@ -5,4 +5,4 @@ Link to website: https://webcitizen.github.io/webcitizen/
 
 Link to website(NA): https://webcitizen.github.io/webcitizen/na
 
-![](img/citi)
+![](img/citizen.png)
