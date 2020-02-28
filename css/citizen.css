@@ -3,12 +3,8 @@ body{
 	font-family: 'Exo', sans-serif;
 }
 .head{
-	background: url("../img/head.jpg");
-	background-size: cover;
-	margin: auto;
-	width: 98%;
-	height: 400px;
 	text-align: center;
+	margin: auto;	
 }
 .media{
 	margin: 30px;
@@ -30,11 +26,8 @@ body{
 @media (max-width: 700px) {
 .media img{
 	display: none;}
-.head{
-	width: 100%;
-	height: 160px;}
 }
-@media (max-width: 1024px) {
+/*@media (max-width: 1024px) {
 .media img{
 	display: none;}
-}
+}*/
